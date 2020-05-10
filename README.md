@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # miracle
 Abduvokhid Abduvokhidov 1610011
+
 Sultonbek Bokijonov     1610238
 =======
 # Internet Programming: Group Project Assignment
